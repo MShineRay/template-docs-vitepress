@@ -11,12 +11,14 @@ export default {
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
 
+    // 搜索
     algolia: {
       appId: '8J64VVRP8K',
       apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
       indexName: 'vitepress'
     },
 
+    // 广告
     carbonAds: {
       carbon: 'CEBDT27Y',
       custom: 'CKYD62QM',
